@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zennvyy
+- 👋 Hi, I’m zen
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Projects regarding data
